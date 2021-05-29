@@ -1,0 +1,30 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: rgb(143, 143, 143);
+}
+
+.Tray{
+    background: rgb(218, 218, 218);
+}
+
+.plate2{
+    background-color: rgb(77, 79, 82);
+    width: fit-content;
+}
+
+#point1{
+    color:silver;
+    font-weight: bolder;
+}
+#point2{
+    color:silver;
+    
+}
+#point3{
+    color:silver;
+}
+
+    
