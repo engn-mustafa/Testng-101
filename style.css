@@ -4,27 +4,39 @@
 
 body{
     background: rgb(143, 143, 143);
+    margin: 10%;
+}
+
+header{
+    text-align: center;
+}
+
+h2{
+    cursor: pointer;
 }
 
 .Tray{
     background: rgb(218, 218, 218);
 }
-
+.plate{
+    text-align: center;
+}
 .plate2{
-    background-color: rgb(77, 79, 82);
-    width: fit-content;
+    display: block;
+    margin-left: 40%;
+    background: rgb(77, 79, 82) no-repeat scroll 50% 50%;
+    display: inline-block;
+}
+address{
+    color:silver;
+    font-size: larger ;
+    display: inline-block;
+}
+li{
+    display: block;
+    margin: 0 auto;
 }
 
-#point1{
-    color:silver;
-    font-weight: bolder;
+footer{
+    text-align: center;
 }
-#point2{
-    color:silver;
-    
-}
-#point3{
-    color:silver;
-}
-
-    
